@@ -1,5 +1,5 @@
 # Projeto - App E-coleta
-Essa é uma aplicação em React Native que desenvolvida nas aulas da disciplina de Programação para dispositivos móveis.
+Essa é uma aplicação em React Native que foi desenvolvida nas aulas da disciplina de Programação para dispositivos móveis.
 
 Nessa aplicação mobile o usuário faz cadastro e login usando seu e-mail e senha. Após logado, o usuário pode ver os pontos de coleta de lixo mais próximos da sua atual localização.
 
